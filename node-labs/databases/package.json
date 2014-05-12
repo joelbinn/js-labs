@@ -1,0 +1,13 @@
+{
+  "name": "node-labs-db",
+  "description": "Node JS labbar: CouchDB",
+  "author": "Joel Binnquist <joel.binnquist@gmail.com>",
+  "version": "0.0.1",
+  "dependencies": {
+    "zmq": "^2.6.0",
+    "request": "^2.34.0",
+    "cheerio": "^0.15.0"
+  },
+  "devDependencies": {},
+  "engine": "node >= 0.10.26"
+}

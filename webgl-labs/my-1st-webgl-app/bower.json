@@ -1,0 +1,20 @@
+{
+  "name": "my-1st-webgl-app",
+  "version": "0.0.0",
+  "authors": [
+    "Joel Binnquist <joel.binnquist@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threejs": "*",
+    "gl-matrix": "~2.2.1",
+    "jquery": "~2.1.1"
+  }
+}
